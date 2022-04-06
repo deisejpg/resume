@@ -1,0 +1,235 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\author{}
+\date{}
+
+\begin{document}
+
+\textbf{CONTACT}
+
+\includegraphics[width=0.20208in,height=0.20208in]{vertopal_00a74f6ba83945958a1c2d8bea664fa2/media/image1.png}\includegraphics[width=0.17222in,height=0.17222in]{vertopal_00a74f6ba83945958a1c2d8bea664fa2/media/image3.png}
+\href{http://deisejpg@umich.edu}{deisejpg@umich.edu}
+
+\includegraphics[width=0.18611in,height=0.18611in]{vertopal_00a74f6ba83945958a1c2d8bea664fa2/media/image5.png}
+(512) 669-1318
+
+\includegraphics[width=0.20278in,height=0.20278in]{vertopal_00a74f6ba83945958a1c2d8bea664fa2/media/image7.png}
+Ann Arbor, MI
+
+\includegraphics[width=0.175in,height=0.16736in]{vertopal_00a74f6ba83945958a1c2d8bea664fa2/media/image8.png}
+\href{https://www.linkedin.com/in/deisegoncalves/}{linkedin.com/in/deisegoncalves}
+
+\href{https://github.com/deisejpg}{github.com/deisejpg}
+
+\textbf{PROFILE}
+
+Postdoctoral Researcher at the University of Michigan. Lead scientist
+and project manager (logistics, wet lab, dry lab, scientific writing,
+mentorship).
+
+\textbf{EDUCATION}
+
+2019
+
+The University Of Texas At Austin {[}Austin, TX{]}
+
+\textbf{Ph.D. in Plant Biology}
+
+2013
+
+State University Of Campinas {[}Brazil{]}
+
+\textbf{Masters in Plant Biology}
+
+2009
+
+Federal University Of Uberlandia {[}Brazil{]}
+
+\textbf{Bachelor of Science and Teaching License}
+
+\textbf{MANAGEMENT SKILLS}
+
+\begin{itemize}
+\item
+  \begin{quote}
+  Project and Team Management
+  \end{quote}
+\item
+  \begin{quote}
+  Slack, Git, Excel, PowerPoint
+  \end{quote}
+\item
+  \begin{quote}
+  Talent Acquisition
+  \end{quote}
+\end{itemize}
+
+\textbf{TECHNICAL SKILLS}
+
+\begin{itemize}
+\item
+  \begin{quote}
+  Bash, Python, R, cloud computing
+  \end{quote}
+\item
+  \begin{quote}
+  Data visualization
+  \end{quote}
+\item
+  \begin{quote}
+  Data exploration and interpretation
+  \end{quote}
+\item
+  \begin{quote}
+  High-throughput genomic data analyses (HPC, parallel computing)
+  \end{quote}
+\item
+  \begin{quote}
+  Project documentation, organization
+  \end{quote}
+\item
+  \begin{quote}
+  Statistics and Probability
+  \end{quote}
+\item
+  \begin{quote}
+  Scientific writing
+  \end{quote}
+\item
+  \begin{quote}
+  Teaching and public speaking
+  \end{quote}
+\end{itemize}
+
+\begin{quote}
+\textbf{EXPERIENCE}
+
+2020 -- PRESENT
+
+\textbf{Postdoctoral Researcher}, University of Michigan
+
+Leadership
+\end{quote}
+
+\begin{itemize}
+\item
+  Genomic data analyses from cleaning and filtering to detecting
+  variants and using statistical models to infer relatedness.
+\item
+  Leading scientific projects, grant writing (\$300,000 awarded from
+  multiple agencies during grad school), and training personnel in the
+  field and wet and dry lab.
+\item
+  Interfacing with sequencing facilities to obtain high-quality genomic
+  data (RNA and DNA) and with scientists in closely related areas to
+  explore data and to look for further insights in research.
+\item
+  Scientific communication in English, Portuguese, and Spanish to the
+  scientific community and to audiences ranging from high school
+  students to faculty members.
+\item
+  Led the Student Body in the Department of Integrative Biology and in
+  the Dean's Council of the College of Natural Sciences at UT Austin.
+\end{itemize}
+
+\begin{quote}
+Current Projects
+\end{quote}
+
+\begin{itemize}
+\item
+  Leading scientist of the UofM team in an interinstitutional
+  \href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1917146\&HistoricalAwards=false}{NSF-funded
+  project}.
+\item
+  Analyzing data of hundreds (transcriptome) to thousands (nuclear
+  target capture, genome skimming) of species of an ecologically and
+  economically important plant group.
+\end{itemize}
+
+\begin{quote}
+Past Projects
+\end{quote}
+
+\begin{itemize}
+\item
+  Analyzed phylogenetic uncertainty in chloroplast genomes and how it
+  impacts phylogenetic inference. Developed a user-friendly
+  \href{https://github.com/deisejpg/rosids}{pipeline} for data analyses
+  that test the phylogenetic signal of sites or genes.
+\item
+  Collaborated on the development of a new
+  \href{https://github.com/edgardomortiz/sam2consensus}{analytical tool}
+  for evolutionary genomics which optimizes data processing time.
+\item
+  \href{http://www.deisegoncalves.com/pubs.html}{Published} scientific
+  papers, gave oral and poster presentations at national and
+  international meetings. Experience teaching and communicating with all
+  ages.
+\item
+  \begin{quote}
+  Co-organized the Austin Chapter of PyLadies.
+  \end{quote}
+\end{itemize}
+
+\end{document}
