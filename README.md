@@ -1,1 +1,1 @@
-Deise JP Gonçalves resume. Last updated in May/2022. 
+Deise JP Gonçalves resume. Last updated in January 2025. 
