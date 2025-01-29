@@ -1,1 +1,1 @@
-Deise JP Gonçalves resume. Last updated in January 2025. 
+This is the most recent version of my resume (01292025). 
